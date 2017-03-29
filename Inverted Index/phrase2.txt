@@ -1,0 +1,3 @@
+coriolanus:2.0
+julius_caesar:2.0
+life_and_death_of_king_john:1.0
